@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "CNS Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "CNS Lab at Peking University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a computational neuroscience research group at the [School of Electronic Engineering and Computer Science Department](http://eecs.pku.edu.cn/). Our aim is to build detailed neuro models and high-performance neuro analysis platforms.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
