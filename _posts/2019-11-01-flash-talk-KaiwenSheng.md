@@ -2,7 +2,6 @@
 title: '(2019-11-1)Journal Club Flash Talk'
 date: 2019-11-01
 permalink: /posts/2019/11/flash-talk-0/
-author: Kaiwen Sheng
 tags:
   - Nature Methods
   - Survey
