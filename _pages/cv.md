@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV PDF link](http://holmosaint.github.io/files/CV/KaiwenSheng.pd)
+[CV PDF link](http://holmosaint.github.io/files/CV/KaiwenSheng.pdf)
