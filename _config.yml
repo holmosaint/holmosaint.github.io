@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Holmosaint / Personal Website"
+title                    : "Holmosaint / Homepage"
 title_separator          : "-"
 name                     : &name "Kaiwen Sheng"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaiwen Sheng"
   avatar           : "KaiwenSheng.jpg"
-  bio              : "Undergraduate at Peking University, CS"
-  location         : # "Location"
+  bio              : "Software Development Engineer @ BAAI"
+  location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "holmosaint@gmail.com"
+  email            : "sheng_kaiwen@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
