@@ -13,6 +13,8 @@ I'm Kaiwen Sheng, currently a software development engineer at Life Simulation R
 I'm going to University of College London to pursue an MRes degree in biosciences, neuroscience track since the fall of 2021.
 
 ## NEWS
+- **2021.06** Preprint published on bioRxiv: U-RISC: an ultra-high-resolution electron microscopy dataset challenging existing deep learning algorithms [[PDF](https://www.biorxiv.org/content/10.1101/2021.05.30.446334v3)]
+
 - **2021.03** Preprint published on bioRxiv: A General LSTM-based Deep Learning Method for Estimating Neuronal Models and Inferring Neural Circuitry [[PDF](https://www.biorxiv.org/content/10.1101/2021.03.14.434027v1.abstract)]
 
 - **2020.10** Preprint published on arXiv: Human Perception-based Evaluation Criterion for Ultra-high Resolution Cell Membrane Segmentation [[PDF](https://arxiv.org/abs/2010.08209)]
