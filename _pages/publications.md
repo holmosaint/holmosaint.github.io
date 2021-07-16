@@ -7,6 +7,7 @@ author_profile: true
 
 ## 2021
 - **Sheng, K.**, Qu, P., Yang, L., Liu, X., He, L., Ma, L., & Du, K. (2021). A General LSTM-based Deep Learning Method for Estimating Neuronal Models and Inferring Neural Circuitry. *bioRxiv*.
+-  Shi, R., Wang, W., Li, Z., He, L., **Sheng, K.**, Ma, L., ... \& Huang, T. (2021). U-RISC: an ultra-high-resolution EM dataset challenging existing deep learning algorithms. *bioRxiv*.
 
 ## 2020
 - Shi, R., Wang, W., Li, Z., He, L., **Sheng, K.**, Ma, L., ... & Huang, T. (2020). Human Perception-based Evaluation Criterion for Ultra-high Resolution Cell Membrane Segmentation. *arXiv preprint arXiv:2010.08209*.
