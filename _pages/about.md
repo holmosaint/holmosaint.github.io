@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Kaiwen Sheng, currently a software development engineer at Life Simulation Research Center of Beijing Academy of Artifitial Intelligence(BAAI). I got my Bachelor degree in Computer Science from Peking University in 2020. My research interests lie in developing machine learning tools for neuroscience and (bayesian) computations in ion channels and synapses.
-
-I'm going to University of College London to pursue an MRes degree in biosciences, neuroscience track since the fall of 2021.
+I'm Kaiwen Sheng, currently an MRes student in neuroscience at University College London(UCL). I got my Bachelor degree in Computer Science from Peking University in 2020 and took a gap year in BAAI as a software development engineer. My research interests lie in developing machine learning tools for neuroscience and computations in ion channels and synapses.
 
 ## NEWS
 - **2021.06** Preprint published on bioRxiv: U-RISC: an ultra-high-resolution electron microscopy dataset challenging existing deep learning algorithms [[PDF](https://www.biorxiv.org/content/10.1101/2021.05.30.446334v3)]
