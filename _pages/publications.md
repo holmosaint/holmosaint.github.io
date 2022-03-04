@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2022
+- Su, L.\*, Wang, W.\*, **Sheng, K.**, Liu, X., Du, K., Tian, Y., & Ma, L. Siamese Network-Based All-Purpose-Tracker, a Model-Free Deep Learning Tool for Animal Behavioral Tracking. Frontiers in Behavioral Neuroscience, 48. (\* equally contributed)
+
 ## 2021
 - **Sheng, K.**, Qu, P., Yang, L., Liu, X., He, L., Ma, L., & Du, K. (2021). A General LSTM-based Deep Learning Method for Estimating Neuronal Models and Inferring Neural Circuitry. *bioRxiv*.
 -  Shi, R., Wang, W., Li, Z., He, L., **Sheng, K.**, Ma, L., ... & Huang, T. (2021). U-RISC: an ultra-high-resolution EM dataset challenging existing deep learning algorithms. *bioRxiv*.
