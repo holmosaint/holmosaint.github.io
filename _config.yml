@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Holmosaint / Homepage"
+title                    : "Kaiwen's Homepage"
 title_separator          : "-"
 name                     : &name "Kaiwen Sheng"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "London, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=2Lf-0vUAAAAJ&hl=en"
   email            : "kaiwen.sheng.21@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
