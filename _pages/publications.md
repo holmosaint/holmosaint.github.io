@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2022
+-  **Sheng, K.**, Zhang, S., Beau, M., Qu, P., Yang, L., Liu, X., He, L., Ma, L., \& Du, K. (2022). Domain Adaptive Neural Inference for Neurons, Microcircuits and Networks. *bioRxiv*.
 - Shi, R., Wang, W., Li, Z., He, L., **Sheng, K.**, Ma, L., Du, K., Jiang, T., and Huang, T. (2022) U-RISC: An Annotated Ultra-High-Resolution Electron Microscopy Dataset Challenging the Existing Deep Learning Algorithms. *Front. Comput. Neurosci.* 16:842760. doi: [10.3389/fncom.2022.842760](10.3389/fncom.2022.842760)
 - Su, L., Wang, W., **Sheng, K.**, Liu, X., Du, K., Tian, Y., and Ma, L. (2022) Siamese Network-Based All-Purpose-Tracker, a Model-Free Deep Learning Tool for Animal Behavioral Tracking. *Front. Behav. Neurosci.* 16:759943. doi: [10.3389/fnbeh.2022.759943](10.3389/fnbeh.2022.759943) (\* equally contributed)
 
