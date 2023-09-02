@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Kaiwen Sheng"
-  avatar           : "KaiwenSheng_1.PNG"
-  bio              : "MRes in Neuroscience @ UCL"
-  location         : "London, UK"
+  avatar           : "Malta_cliff.jpg"
+  bio              : "PhD in bioengineering @ Stanford"
+  location         : "Stanford, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2Lf-0vUAAAAJ&hl=en"
-  email            : "kaiwen.sheng.21@ucl.ac.uk"
+  email            : "kwsheng@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
