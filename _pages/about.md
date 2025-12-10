@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Kaiwen Sheng, currently a PhD student in bioengineering at Stanford University. In the summer of 2023, I worked with Prof. Jun Ding at Stanford on motor learning. Previously, I got my Master's degree in neuroscience from UCL, supervised by Prof. Michael Häusser, Prof. Beverley Clark and Dr. Brendan Bicknell, working on dendrites and cell types. Previous than that, I obtained my Bachelor degree in Computer Science from Peking University in 2020, supervised by Dr. Kai Du and Prof. Tiejun Huang. My research interests lie in learning and computation in neural circuits.
+I'm Kaiwen Sheng, currently a PhD student in bioengineering at Stanford University working with Prof. Karl Deisseroth and Prof. Anish Mitra. In the summer of 2023, I worked with Prof. Jun Ding at Stanford on motor learning. Previously, I got my Master's degree in neuroscience from UCL, supervised by Prof. Michael Häusser, Prof. Beverley Clark and Dr. Brendan Bicknell, working on dendrites and cell types. Previous than that, I obtained my Bachelor degree in Computer Science from Peking University in 2020, supervised by Dr. Kai Du and Prof. Tiejun Huang. My research interests lie in learning and computation in neural circuits.
 
 ## NEWS
 - **2025.11** Paper published on Neurips **Spotlight**: Extracting task-relevant preserved dynamics from contrastive aligned neural recordings [[link](https://www.biorxiv.org/content/10.1101/2025.11.11.686428v1.abstract)]
