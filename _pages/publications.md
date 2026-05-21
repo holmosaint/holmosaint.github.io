@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026
+- **Sheng, K.**, Zhang, S., Zhang, S., He, Y., Beau, M., Qu, P., ... & Du, K. (2026). Domain-adaptive matching bridges synthetic and in vivo neural dynamics for neural circuit connectivity inference. eLife, 15.
+
 ## 2025
 - \[**Spotlight**\] Jiang, Y.\*, **Sheng, K.**\*, Gao, Y., Buchanan, E. K., Shikano, Y., Woo, S. J., ... & Schnitzer, M. Extracting task-relevant preserved dynamics from contrastive aligned neural recordings. In The Thirty-ninth Annual Conference on Neural Information Processing Systems.
 
